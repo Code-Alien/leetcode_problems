@@ -1,4 +1,4 @@
-package easy.arraypartiotionI;
+package easy.array_partiotion_I;
 
 import java.util.Arrays;
 

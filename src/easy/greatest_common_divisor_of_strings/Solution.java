@@ -1,4 +1,4 @@
-package easy.greatestcommondivisorofstrings;
+package easy.greatest_common_divisor_of_strings;
 
 
 import java.util.HashSet;
